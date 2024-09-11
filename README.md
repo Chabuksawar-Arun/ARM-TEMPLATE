@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-**Farmbox-Direct** is a website that allows users to Book Hotel Room  (such as Deluxe and Suite ) and A hotel room booking website provides a convenient platform for customers to search, reserve, and pay for rooms online, offering real-time availability and secure transactions. The site aims to simplify the decision-making process by providing users with a Book Hotel Room to stay. 
+**Farmbox-Direct** Farmbox Direct is an e-commerce platform aimed at delivering fresh, organic fruits and vegetables directly to customers' doorsteps. The goal is to make healthy eating accessible and convenient by providing a simple way for users to order high-quality, farm-fresh produce online. 
 
-This project demonstrates the deployment of **Sitara-Hotel** using Azure's ARM templates and load balancing across two Virtual Machines (VMs) in different availability zones for high availability and scalability.
+This project demonstrates the deployment of **Farmbox-Direct** using Azure's ARM templates and load balancing across two Virtual Machines (VMs) in different availability zones for high availability and scalability.
 
 ## Problem Statement
 
@@ -12,7 +12,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
 
 ## Project Goals
 
-- Deploy the ** Sitara-Hotel ** website on Azure using ARM templates.
+- Deploy the ** Farmbox-Direct ** website on Azure using ARM templates.
 - Set up a **Virtual Network (VNet)** with two **Subnets** and a **Network Security Group (NSG)**.
 - Use a **Load Balancer** to distribute traffic between two VMs located in different availability zones.
 - Host the static website on these VMs and make it accessible via the load balancer's frontend IP.
@@ -30,10 +30,10 @@ The hotel industry faces significant challenges in managing room bookings, parti
 ## Project Steps
 
 ### 1. Website Development
-- ** Sitara-Hotel **: A static website allowing users to A hotel room booking website provides a convenient platform for customers to search, reserve, and pay for rooms online.
+- ** Farmbox-Direct **: A static website allowing users to A hotel room booking website provides a convenient platform for customers to search, reserve, and pay for rooms online.
 
 ### 2. Deploying the Website on GitHub
-- Frontend of  ** Sitara-Hotel ** was uploaded to a public GitHub repository: [Sitara-Hotel](https://github.com/CHinnaSR/Sitara-Hotel.git).
+- Frontend of  ** Farmbox-Direct ** was uploaded to a public GitHub repository: [Sitara-Hotel](https://github.com/CHinnaSR/Sitara-Hotel.git).
 
 ### 3. Azure Deployment Using ARM Templates
 - **Resource Group**: Created using Azure CLI to hold all the resources.
@@ -66,7 +66,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
 ### 6. Testing and Accessing the Website
 - After the load balancer deployment, the website became accessible via the frontend IP of the load balancer. Users can interact with **Sitara-Hotel** to generate outfits from their clothing uploads.
 
-## How to Use Sitara-Hotel
+## How to Use Farmbox-Direct
 
 1.Open the website and open BookNow Right to top Corner of webpage.
 2. Then it take to booking form fill the  and select type of room required.
