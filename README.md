@@ -8,7 +8,7 @@ This project demonstrates the deployment of **Farmbox-Direct** using Azure's ARM
 
 ## Problem Statement
 
-The hotel industry faces significant challenges in managing room bookings, particularly in ensuring efficient and accurate reservations, optimizing room availability, and enhancing customer satisfaction. After building the website, the challenge was to deploy it on Azure using a load-balanced architecture for efficient traffic distribution.
+In today’s fast-paced world, many people struggle to find time to shop for fresh, healthy produce, leading to poor diet choices and reliance on processed foods. Additionally, many communities have limited access to organic or locally-sourced fruits and vegetables, making it challenging to maintain a healthy lifestyle. After building the website, the challenge was to deploy it on Azure using a load-balanced architecture for efficient traffic distribution.
 
 ## Project Goals
 
