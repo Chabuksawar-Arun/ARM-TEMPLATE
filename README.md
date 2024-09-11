@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Sitara-Hotel** is a website that allows users to Book Hotel Room  (such as Deluxe and Suite ) and A hotel room booking website provides a convenient platform for customers to search, reserve, and pay for rooms online, offering real-time availability and secure transactions. The site aims to simplify the decision-making process by providing users with a Book Hotel Room to stay. 
+**Farmbox-Direct** is a website that allows users to Book Hotel Room  (such as Deluxe and Suite ) and A hotel room booking website provides a convenient platform for customers to search, reserve, and pay for rooms online, offering real-time availability and secure transactions. The site aims to simplify the decision-making process by providing users with a Book Hotel Room to stay. 
 
 This project demonstrates the deployment of **Sitara-Hotel** using Azure's ARM templates and load balancing across two Virtual Machines (VMs) in different availability zones for high availability and scalability.
 
