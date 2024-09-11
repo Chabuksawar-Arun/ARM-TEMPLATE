@@ -33,7 +33,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
 - ** Farmbox-Direct **: A static website allowing users to A hotel room booking website provides a convenient platform for customers to search, reserve, and pay for rooms online.
 
 ### 2. Deploying the Website on GitHub
-- Frontend of  ** Farmbox-Direct ** was uploaded to a public GitHub repository: [Sitara-Hotel](https://github.com/CHinnaSR/Sitara-Hotel.git).
+- Frontend of  ** Farmbox-Direct ** was uploaded to a public GitHub repository: [Farmbox-Direct](https://github.com/Chabuksawar-Arun/Farmbox-Direct).
 
 ### 3. Azure Deployment Using ARM Templates
 - **Resource Group**: Created using Azure CLI to hold all the resources.
@@ -50,7 +50,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
   #!/bin/bash
   sudo apt update
   sudo apt install nginx git -y
-  cd /tmp && git clone https://github.com/CHinnaSR/Sitara-Hotel.git
+  cd /tmp && git clone https://github.com/Chabuksawar-Arun/Farmbox-Direct
   sudo rm -rf /var/www/html/index.nginx-debian.html
   sudo cp -r /tmp/mysitee/* /var/www/html/
   ```
@@ -64,7 +64,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
   - **Health Probe**: Set up to monitor the health of the VMs and ensure traffic is routed only to healthy VMs.
 
 ### 6. Testing and Accessing the Website
-- After the load balancer deployment, the website became accessible via the frontend IP of the load balancer. Users can interact with **Sitara-Hotel** to generate outfits from their clothing uploads.
+- After the load balancer deployment, the website became accessible via the frontend IP of the load balancer. Users can interact with **Farmbox-Direct** to generate outfits from their clothing uploads.
 
 ## How to Use Farmbox-Direct
 
@@ -86,7 +86,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
 
 ## Live Website and Resources
 
-- **Website Link**: [Sitara-Hotel](https://github.com/CHinnaSR/Sitara-Hotel.git)
+- **Website Link**: [Farmbox-Direct](https://github.com/Chabuksawar-Arun/Farmbox-Direct)
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
   **Created Resource Group Screenshot**
@@ -126,7 +126,7 @@ The hotel industry faces significant challenges in managing room bookings, parti
 
 ## Conclusion
 
-This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the **Sitara-Hotel** platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
+This project showcases the end-to-end process of deploying a static website using Azure's ARM templates and load balancing capabilities. By distributing traffic between two VMs in different availability zones, we ensure high availability and scalability for the **Farmbox-Direct** platform. The integration of Azure's powerful tools and services simplified the deployment and configuration process.
 
 ## Author
 
