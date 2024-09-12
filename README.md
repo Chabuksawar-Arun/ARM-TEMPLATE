@@ -146,7 +146,7 @@ This project showcases the end-to-end process of deploying a static website usin
 
 **Sunnapu Shruthi** 
 
-**Pandari Pavan** 
+**Pandiri Pavan** 
 
 Deployed by group as part of learning Azure's cloud infrastructure.
 
