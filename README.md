@@ -90,10 +90,10 @@ In today’s fast-paced world, many people struggle to find time to shop for fre
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Screenshot%20ResourceGroup.png)
+  - ![ResourceGroup Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Az%20resource%20group%20create.png)
     
   **ResourceGroup Deployment Output**
-  - ![RSG-Deployment-output Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Rgoutput.png)
+  - ![RSG-Deployment-output Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/resource%20group.jpg)
 
   **VNet Subnets RSG ARM Template Output**
   - ![VNetDeploymentoutputSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/NSG%20%26Vnet.png)
