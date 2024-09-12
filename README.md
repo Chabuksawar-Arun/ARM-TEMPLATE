@@ -96,32 +96,37 @@ In today’s fast-paced world, many people struggle to find time to shop for fre
   - ![RSG-Deployment-output Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/resource%20group.jpg)
 
   **VNet Subnets RSG ARM Template Output**
-  - ![VNetDeploymentoutputSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/NSG%20%26Vnet.png)
+  - ![VNetDeploymentoutputSS Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Az%20deployment%20of%20Vnet%20(2).png)
 
    **Created VNet Screenshot** 
-  - ![VNetSS Screenshot](vnet.png )
+  - ![VNetSS Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Virtual%20Network.png)
 
   **Created Subnets Screenshot**
-  - ![SubnetSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Subnet.png)
+  - ![SubnetSS Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Vnet%20subnets.png)
 
    **Deployed VM 1 Screenshot**
-  - ![VM1SS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Vm01.png)
+  - ![VM1SS Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Virtual%20Machine%201.png)
 
   **Deployed VM 2 Screenshot**
-  - ![VM2SS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/vm02.png)
+  - ![VM2SS Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Virtual%20Machine%202.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![LoadbalancerSS Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/LoadBalancer.png
-)
+  - ![LoadbalancerSS Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Load%20Balancer.png )
 
   **Website Home Page Screenshot**
-  - ![Sitara-Hotel Homepage Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Home.png)
+  - ![Sitara-Hotel Homepage Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Homepage.png)
 
-  **Generate Book Now after complete Deployment**
-  - ![GenerateOutfitsPage Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/Book%20Now.png)
+  **About page after complete Deployment**
+  - ![GenerateOutfitsPage Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/About%20Page.png )
 
-  **About hotel Page after complete Deployment**
-  - ![About hotel Page Screenshot](https://github.com/CHinnaSR/Sitara-Hotel/blob/main/About%20hotel.png)
+  **Services Page after complete Deployment**
+  - ![About hotel Page Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Services%20Page.png)
+    
+  **Blog Page after complete Deployment**
+  - ![About hotel Page Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Blog%20Page.png)
+ 
+  **Contact Page after complete Deployment**
+  - ![About hotel Page Screenshot](https://github.com/Chabuksawar-Arun/Farmbox-Direct/blob/main/Contact%20Page.png)
 
 
 ## Conclusion
@@ -130,6 +135,8 @@ This project showcases the end-to-end process of deploying a static website usin
 
 ## Author
 
-**Mandal Satish Reddy**  
-Deployed individually as part of learning Azure's cloud infrastructure.
+**Chabuksawar Arun**  
+**Sunnapu Shruthi**
+**Pandiri Pavan**
+Deployed by group as part of learning Azure's cloud infrastructure.
 
