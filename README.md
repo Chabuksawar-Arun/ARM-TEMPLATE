@@ -21,7 +21,7 @@ In today’s fast-paced world, many people struggle to find time to shop for fre
 
 1. **Azure CLI**: Used to create the resource group and Virtual Network.
 2. **ARM Templates**: Automated the creation of VNet, subnets, and NSG.
-3. **Azure Virtual Machines (VMs)**: Hosted the Sitara-Hotel website.
+3. **Azure Virtual Machines (VMs)**: Hosted the FarmBox Direct website.
 4. **Azure Load Balancer**: Distributed the traffic between two VMs to ensure high availability.
 5. **Nginx**: Used as a web server on both VMs to serve the static content.
 6. **Git**: Cloned the website from GitHub onto the VMs using a custom script.
@@ -93,7 +93,7 @@ In today’s fast-paced world, many people struggle to find time to shop for fre
 
 ## Live Website and Resources
 
-- **Website Link**: [Farmbox-Direct](https://github.com/Chabuksawar-Arun/Farmbox-Direct)
+- **Website Link**: [Farmbox-Direct](https://dev-farmbox-direct.pantheonsite.io/home)
 - **Demo Video**: [YouTube Demo](https://youtube.com/example)
 - **Screenshots**:
   **Created Resource Group Screenshot**
