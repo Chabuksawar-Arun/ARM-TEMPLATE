@@ -30,7 +30,7 @@ In today’s fast-paced world, many people struggle to find time to shop for fre
 ## Project Steps
 
 ### 1. Website Development
-- ** Farmbox-Direct **: A static website allowing users to A hotel room booking website provides a convenient platform for customers to search, reserve, and pay for rooms online.
+- ** Farmbox-Direct **: A static website aims to solve the issues of customers by providing an easy, reliable platform  to access fresh, organic fruits and vegetables through direct delivery, ensuring quality, convenience, and time-saving.
 
 ### 2. Deploying the Website on GitHub
 - Frontend of  ** Farmbox-Direct ** was uploaded to a public GitHub repository: [Farmbox-Direct](https://github.com/Chabuksawar-Arun/Farmbox-Direct).
@@ -68,9 +68,16 @@ In today’s fast-paced world, many people struggle to find time to shop for fre
 
 ## How to Use Farmbox-Direct
 
-1.Open the website and open BookNow Right to top Corner of webpage.
-2. Then it take to booking form fill the  and select type of room required.
-3. By adding Payment details and confirm your stay.
+1.	Open the Farmbox Direct website in your browser.
+2.	Create an account or log in if you’re an existing user.
+3.	Explore the available fruits, vegetables, and seasonal produce under different categories.
+4.	Select a pre-packaged produce box (small, medium, large) or create a custom box based on your preferences.
+5.	Choose a weekly or monthly delivery plan if you want regular shipments.
+6.	Add your chosen items or box to the shopping cart.
+7.	Check the items, quantities, and total price in your cart.
+8.	Select your preferred delivery date and verify the delivery address.
+9.	Enter payment details and apply any promo codes if available.
+10.	Complete the payment and receive an order confirmation, then wait for your fresh produce to be delivered.
 
 ## Azure Services and Tools Used
 
